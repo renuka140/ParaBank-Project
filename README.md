@@ -1,2 +1,2 @@
-# ParaBank-Project
-ParaBank project
+# ParaBankProject
+ParaBankproject
